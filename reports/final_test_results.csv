@@ -1,0 +1,2 @@
+model,threshold,accuracy,phishing_precision,phishing_recall,f1,mcc,roc_auc,true_negative,legitimate_blocked_fp,missed_phishing_fn,true_positive
+Random Forest,0.5499999999999999,0.9416255051638976,0.9492753623188406,0.9188376753507014,0.9338085539714868,0.8819990187054954,0.9889343373484154,1180,49,81,917
